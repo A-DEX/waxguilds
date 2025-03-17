@@ -241,7 +241,34 @@ Promoting, engaging people with WAX ecosystem and building community on Discord
 
 Source: https://snapshots-wax.a-dex.xyz
 
+---
+
+### Pixel Journey Discord (https://discord.gg/kQM6QGnGaH) - Community-Guide-AI
+Promoting, engaging people with the WAX ecosystem and building community on Discord. Now enhanced with our Pixel AI-Assistant Journey Guide, trained on Pixel Journey and broader WAX ecosystem knowledge to assist users.
+
+Metrics
+* Members: 1500+
+
+---
+
+### Pixel Journey X (https://twitter.com/PixelJourneyNFT) - Social Media
+Our X (Twitter) following has grown significantly, from ~3000 to nearly 7500 followers in just over a month, while maintaining a strong 20% engagement rate and forming connections across multiple Web3 projects.
+
+Metrics
+* Followers: 7.5K
+* Engagement: ~20%
+
+---
+
+### Pixel Journey Docs & Website (https://pixeljourney.xyz) - Product
+Updated website and documentation, improving accessibility and onboarding. Now featuring a revamped structure and additional resources to help new users navigate the ecosystem.
+
+---
+
 ### <ins>Feedback to OIG</ins>
 
 N/A
 ----
+
+
+
